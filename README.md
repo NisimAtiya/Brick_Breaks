@@ -1,5 +1,5 @@
 # Brick Breaks
-## Brick Breaks is an engaging and addictive game developed using Java. The objective of the game is to break all the bricks by maneuvering a stick and hitting the bricks with a ball. This repository contains all the necessary code and assets to run the game and customize its features.
+Brick Breaks is an engaging and addictive game developed using Java. The objective of the game is to break all the bricks by maneuvering a stick and hitting the bricks with a ball. This repository contains all the necessary code and assets to run the game and customize its features.
 
 ### Features
 Interactive stick and brick mechanics
